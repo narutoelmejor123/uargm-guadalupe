@@ -1,21 +1,19 @@
 Estudiante:Maria Guadalupe Bazoalto Mamani
 
 Que are hoy?
- -realizar mi documentacion hacer tareas de otra materia
+ -realizar mi documentacion de un proyecto de arquitectura
  -empezar a exederme
+ -proyecto de arquitectura
   
 Como lo are?
 revisando los documentos de guia
-
+revisando extructra MVC para realizar el proyecto
 
 Que hice asta ahora?
-  -En la mañana investige sobre la tarea de yeoman
-  -ise mi tarea de arquitectura falta completar
+  -ise mi tarea de arquitectura documentacion
   -Fui a mi trabajo
   -Ahora estoy en clases
-  
-En que me esedi hoy?
- -empezando
+ 
 
-Fecha: 10/09/2019
+Fecha: 11/09/2019
 
